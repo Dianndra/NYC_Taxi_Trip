@@ -12,6 +12,6 @@ Lucid Chart - Data architecture design
 Python
 SQL
 
-### DATA ARCHITECHURE
-
+### DATA ARCHITECTURE
+[NYC Taxi Map](C:\Users\diann\OneDrive\Portfolio\NYC_Taxi_Trip\data_architecture.png
 

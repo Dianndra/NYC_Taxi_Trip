@@ -1,0 +1,5 @@
+# Virtual environment
+myenv/
+
+# Raw data folder
+nyc_tripdata/

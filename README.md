@@ -13,5 +13,5 @@ Python
 SQL
 
 ### DATA ARCHITECTURE
-![NYC Taxi Map](data_architecture.png)
+![NYC Taxi Map](img/data_architecture.png)
 
